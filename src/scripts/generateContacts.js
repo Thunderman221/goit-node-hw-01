@@ -22,5 +22,4 @@ export const generateContacts = async (count) => {
   }
 };
 
-// Запуск функции
 generateContacts(5);
